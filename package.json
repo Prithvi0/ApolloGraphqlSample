@@ -1,10 +1,10 @@
 {
-  "name": "apollo-graphql-sample",
+  "name": "apollo-graphql-REST-API",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node server.js"
   },
   "keywords": [],
   "author": "",
